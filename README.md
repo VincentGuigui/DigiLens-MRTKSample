@@ -5,8 +5,10 @@ This sample use the original MRTK "Hand Interaction" example scene and is built 
 ![image](docs/screenshot.jpg)
 
 # Downlaod and Install the APK
-The APK is already build and available in [Releases](https://github.com/VincentGuigui/DigiLens-MRTKSample/releases)
+The APK is already build and available in [Releases](https://github.com/VincentGuigui/DigiLens-MRTKSample/releases).
+
 You can install it using ADB:
+
 `adb install DigiLens.MRTKSample.apk`
 
 # Requirements
